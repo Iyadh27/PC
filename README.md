@@ -47,7 +47,6 @@ Running the project will simulate a live performance, with output messages indic
 
 - **`MusicBegins()` Method**: Starts the musical performance, with the main singer singing and the backup performers doing their parts.
 - **Extensible Design**: The project is designed to be extensible, allowing for the easy addition of new types of performances, artists, or interactions between entities.
-
-- 
+ 
 
 This project is a great example of how OOP principles can be applied to model real-world scenarios in a clear, organized, and maintainable way.
